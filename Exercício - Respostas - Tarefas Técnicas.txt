@@ -1,0 +1,31 @@
+Tarefa 1- Configurar Sensores de Linha: Instalar e configurar os sensores de linha no robô Arduino, de modo que possam detectar a linha no chão.
+
+Tarefa 2- Programação do Controlador: Desenvolver o código para o controlador do robô Arduino, de forma que ele seja capaz de interpretar os dados dos sensores de linha e tomar decisões para seguir a linha.
+
+Tarefa 3- Calibração dos Sensores: Realizar a calibração dos sensores de linha para garantir que eles estejam ajustados corretamente e capazes de detectar a linha de maneira confiável.
+
+Tarefa 4- Implementar Lógica de Controle: Desenvolver a lógica de controle que permitirá ao robô seguir a linha de maneira autônoma, tomando decisões como girar à esquerda, à direita ou manter-se na linha com base nas informações dos sensores.
+
+Tarefa 5- Testes e Depuração: Testar o robô em um ambiente controlado, como um percurso com linha preta no chão, identificando e corrigindo possíveis problemas na programação e no hardware.
+
+Tarefa 6- Otimização de Desempenho: Otimizar o código e o desempenho do robô para garantir uma resposta rápida aos desafios da pista e minimizar a latência.
+
+Tarefa 7- Documentação e Instruções: Preparar documentação clara que explique como o robô foi projetado, como o código funciona e como os sensores foram configurados, para futuras referências.
+
+Tarefa 8- Treinamento do Montador: Se o montador não tiver experiência técnica, fornecer treinamento básico sobre como operar o robô e fazer manutenção simples.
+
+Tarefa 9- Suporte ao Usuário: Fornecer um meio de suporte ao usuário (neste caso, o montador do robô) para esclarecer dúvidas ou resolver problemas que possam surgir durante a operação do robô.
+
+Tarefa 10- Detecção de Obstáculos: Caso a história não tenha especificado, adicionar sensores de obstáculos para que o robô possa evitar colidir com objetos que possam estar em seu caminho enquanto segue a linha.
+
+Tarefa 11- Configurar Controles Manuais: Se necessário, implementar a capacidade de controlar manualmente o robô por meio de um controle remoto ou aplicativo, para situações em que a operação autônoma não seja desejada.
+
+Tarefa 12- Bateria e Alimentação: Certificar-se de que o robô tenha uma fonte de alimentação adequada, como baterias, e implementar circuitos de proteção e carregamento para garantir a autonomia do robô.
+
+Tarefa 13- Feedback Visual ou Sonoro: Adicionar recursos de feedback visual ou sonoro para indicar o status do robô, como LEDs ou alto-falantes que possam alertar sobre problemas ou sucesso na missão.
+
+Tarefa 14- Integração com Plataforma de Controle: Se o projeto permitir, integrar o robô com uma plataforma de controle via smartphone ou computador para monitorar o progresso, ajustar configurações e coletar dados de desempenho.
+
+Tarefa 15- Testes de Campo: Realizar testes de campo em diferentes tipos de superfícies e condições de iluminação para garantir que o robô seja robusto e capaz de seguir a linha de maneira confiável em cenários do mundo real.
+
+Tarefa 16- Aprimoramentos e Otimizações Futuras: Preparar uma lista de possíveis melhorias ou otimizações futuras que possam ser feitas no robô, como a adição de sensores adicionais, atualizações de software ou melhorias no chassi.
